@@ -1,0 +1,8 @@
+pandas 
+numpy
+NLTK
+ipykernel
+bs4
+lxml
+scikit-learn
+gensim
